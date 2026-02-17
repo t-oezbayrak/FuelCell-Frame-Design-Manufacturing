@@ -1,17 +1,47 @@
-# design-manufacturing-of-frame-for-fuel-cell
+# Design & Manufacturing of Frame for Hydrogen Fuel Cell System
 
-Overview
-To design and manufacture the mechanical frame and mounts for the hydrogen fuel cell stack and its supporting electronics (PCBs), ensuring compact integration, serviceability, and structural safety within the vehicle.
-Key Outcomes
-Achieved a fully integrated, compact FC system with minimal weight penalty.
-The vehicle passed all technical inspections and safety checks.
-Contributed to the team winning 2nd place in Shell Eco-Marathon Europe 2025.
-What I Did
-Located the fuel cell bottle, control PCBs, and balance of plant components within the vehicle chassis.
-Designed a modular frame structure that houses all FC electronics securely.
-Created mounts and brackets for each subsystem (FC, sensors, PCB).
-Carried out DFM (Design for Manufacturing) and fabricated components in-house.
-Supported system integration and wiring before competition.
+## Overview
+
+This project focuses on the design and in-house manufacturing of a compact structural frame for a hydrogen fuel cell system and its supporting electronics.
+
+The objective was to achieve:
+- Compact integration within vehicle constraints
+- Structural stability under operational loads
+- Serviceability and modular access
+- Minimal weight penalty
+
+The final system passed all technical inspections and contributed to securing 2nd place at Shell Eco-Marathon Europe 2025.
+
+---
+
+## Engineering Scope
+
+- Layout optimization of fuel cell stack, H₂ bottle, PCBs, and balance-of-plant components
+- Structural frame design for mounting and load transfer
+- Custom brackets and modular supports for subsystems
+- Design for Manufacturing (DfM) implementation
+- In-house fabrication and assembly
+- System integration and pre-race validation
+
+---
+
+## Engineering Considerations
+
+- Packaging under strict volume constraints
+- Vibration and load transfer management
+- Cooling and airflow access for electronics
+- Wiring accessibility and maintenance clearance
+- Safety compliance for hydrogen components
+
+---
+
+## Skills Demonstrated
+
+- Mechanical system integration
+- Lightweight frame design
+- DfM and fabrication
+- Packaging optimization
+- Cross-disciplinary coordination (mechanical + electrical)
 
 
 <img width="620" height="412" alt="Screenshot 2026-01-30 235804" src="https://github.com/user-attachments/assets/472ecd71-9f1b-4010-8e7b-290873311fbd" />
